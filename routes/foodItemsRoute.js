@@ -60,8 +60,21 @@ router.post("/getfoodItemsById", async (req, res) => {
   }
 });
 
-// router.delete("/deleteFoodItemsById/:food_id", async (req, res) => {
-//   const { food_id } = req.params.food_id;
+router.delete("/deleteFoodItemsById/:id", async (req, res) => {
+  const { id } = req.params;
+  try {
+    const item = await Food_Items.deleteOne({ id: id });
+    item
+      ? res.send("Food Item Successfully deleted")
+      : res.status(404).send({ message: "No Items Found" });
+  } catch (err) {
+    console.log(err);
+    return res.status(400).send({ message: err });
+  }
+});
+
+// router.post("/deleteFoodItemsById", async (req, res) => {
+//   const food_id = req.body.id;
 //   try {
 //     const item = await Food_Items.findOneAndDelete({ id: food_id });
 //     item
@@ -72,19 +85,6 @@ router.post("/getfoodItemsById", async (req, res) => {
 //     return res.status(400).send({ message: err });
 //   }
 // });
-
-router.post("/deleteFoodItemsById", async (req, res) => {
-  const food_id = req.body.id;
-  try {
-    const item = await Food_Items.findOneAndDelete({ id: food_id });
-    item
-      ? res.send("Food Item Successfully deleted")
-      : res.status(404).send({ message: "No Items Found" });
-  } catch (err) {
-    console.log(err);
-    return res.status(400).send({ message: err });
-  }
-});
 
 router.put("/editfoodItemsById/:id", async (req, res) => {
   const { id } = req.params;
