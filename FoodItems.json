@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "200",
+        "medium": "300",
+        "large": "400"
+      }
+    ],
+    "name": "Classic Cheeseburger",
+    "image": "https://thumbs.dreamstime.com/b/perfect-hamburger-classic-burger-american-cheeseburger-isolated-gradient-reflection-giant-large-massive-thick-extra-59055572.jpg",
+    "description": "A timeless favorite with a juicy beef patty, melted cheese, crisp lettuce, ripe tomatoes, onions, and pickles.",
+    "category": "veg"
+  },
+  {
+    "id": 2,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "250",
+        "medium": "380",
+        "large": "480"
+      }
+    ],
+    "name": "Bacon BBQ Burger",
+    "image": "https://www.lovelesscafe.com/wp-content/uploads/2019/11/bbq-bacon-burger-recipe.jpg",
+    "description": "A mouthwatering delight featuring a beef patty topped with crispy bacon, tangy barbecue sauce, melted cheese, and caramelized onions.",
+    "category": "nonveg"
+  },
+  {
+    "id": 3,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "270",
+        "medium": "380",
+        "large": "420"
+      }
+    ],
+    "name": "Spicy Chicken Burger",
+    "image": "https://wallpaperaccess.com/full/4496929.jpg",
+    "description": "A fiery treat packed with a seasoned chicken patty, spicy mayo, lettuce, and pickles, served in a soft bun.",
+    "category": "nonveg"
+  },
+  {
+    "id": 4,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "180",
+        "medium": "290",
+        "large": "410"
+      }
+    ],
+    "name": "Mushroom Swiss Burger",
+    "image": "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-mushroom-swiss-burger-1612796532.jpg",
+    "description": "An irresistible combination of a juicy beef patty, sautéed mushrooms, melted Swiss cheese, and a hint of tangy mayo.",
+    "category": "veg"
+  },
+  {
+    "id": 5,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "240",
+        "medium": "350",
+        "large": "460"
+      }
+    ],
+    "name": "Veggie Burger",
+    "image": "https://thumbs.dreamstime.com/b/vegetarian-burger-home-made-chickpea-cutlet-vegetables-veg-concept-copy-space-fresh-153188208.jpg",
+    "description": "A wholesome plant-based delight featuring a flavorful vegetable patty, fresh lettuce, tomatoes, onions, and a zesty sauce.",
+    "category": "veg"
+  },
+  {
+    "id": 6,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "250",
+        "medium": "370",
+        "large": "480"
+      }
+    ],
+    "name": "BBQ Ranch Chicken Burger",
+    "image": "https://sparkpeo.hs.llnwd.net/e2/guid/BBQ-Chicken-Burgers-/59519f1f-76fa-42ab-8cd6-588ca0247dd1.jpg",
+    "description": "A delectable combination of grilled chicken, smoky BBQ sauce, creamy ranch dressing, lettuce, and crispy onions.",
+    "category": "nonveg"
+  },
+  {
+    "id": 7,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "150",
+        "medium": "270",
+        "large": "380"
+      }
+    ],
+    "name": "Garden Veggie Burger",
+    "image": "https://st2.depositphotos.com/1004288/7824/i/600/depositphotos_78242678-stock-photo-vegan-burger.jpg",
+    "description": "A delicious veggie patty made with a blend of fresh garden vegetables, served with crisp lettuce, ripe tomatoes, and tangy sauce.",
+    "category": "veg"
+  },
+  {
+    "id": 8,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "200",
+        "medium": "320",
+        "large": "450"
+      }
+    ],
+    "name": "Mediterranean Burger",
+    "image": "https://www.onegreenplanet.org/wp-content/uploads/2016/05/falafel-burger.jpg",
+    "description": "A mouthwatering falafel patty infused with Mediterranean spices, topped with fresh veggies, tahini sauce, and served on a warm bun.",
+    "category": "veg"
+  },
+  {
+    "id": 9,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "230",
+        "medium": "340",
+        "large": "420"
+      }
+    ],
+    "name": "Portobello Burger",
+    "image": "https://wowitsveggie.com/wp-content/uploads/2020/03/vegan-portobello-mushroom-burger-landscape-1600x900.jpg",
+    "description": "Grilled portobello mushrooms marinated in savory herbs and spices, layered with melted cheese, caramelized onions, and served on a soft bun.",
+    "category": "veg"
+  },
+  {
+    "id": 10,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "250",
+        "medium": "360",
+        "large": "450"
+      }
+    ],
+    "name": "Classic Beef Burger",
+    "image": "https://img.freepik.com/free-photo/front-view-meat-burger-with-salad-cheese-tomatoes-dark-background_140725-89540.jpg",
+    "description": "A classic beef patty cooked to perfection, topped with melted cheese, crisp lettuce, juicy tomatoes, and a special tangy sauce.",
+    "category": "nonveg"
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "_id": "64c267f16eddd1e57c2d1ee7",
+    "id": 1,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "200",
+        "medium": "300",
+        "large": "400"
+      }
+    ],
+    "name": "Classic Cheeseburger",
+    "image": "https://thumbs.dreamstime.com/b/perfect-hamburger-classic-burger-american-cheeseburger-isolated-gradient-reflection-giant-large-massive-thick-extra-59055572.jpg",
+    "description": "A timeless favorite with a juicy beef patty, melted cheese, crisp lettuce, ripe tomatoes, onions, and pickles.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ee8",
+    "id": 2,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "250",
+        "medium": "380",
+        "large": "480"
+      }
+    ],
+    "name": "Bacon BBQ Burger",
+    "image": "https://www.lovelesscafe.com/wp-content/uploads/2019/11/bbq-bacon-burger-recipe.jpg",
+    "description": "A mouthwatering delight featuring a beef patty topped with crispy bacon, tangy barbecue sauce, melted cheese, and caramelized onions.",
+    "category": "nonveg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ee9",
+    "id": 3,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "270",
+        "medium": "380",
+        "large": "420"
+      }
+    ],
+    "name": "Spicy Chicken Burger",
+    "image": "https://wallpaperaccess.com/full/4496929.jpg",
+    "description": "A fiery treat packed with a seasoned chicken patty, spicy mayo, lettuce, and pickles, served in a soft bun.",
+    "category": "nonveg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1eea",
+    "id": 4,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "180",
+        "medium": "290",
+        "large": "410"
+      }
+    ],
+    "name": "Mushroom Swiss Burger",
+    "image": "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-mushroom-swiss-burger-1612796532.jpg",
+    "description": "An irresistible combination of a juicy beef patty, sautéed mushrooms, melted Swiss cheese, and a hint of tangy mayo.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1eeb",
+    "id": 5,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "240",
+        "medium": "350",
+        "large": "460"
+      }
+    ],
+    "name": "Veggie Burger",
+    "image": "https://thumbs.dreamstime.com/b/vegetarian-burger-home-made-chickpea-cutlet-vegetables-veg-concept-copy-space-fresh-153188208.jpg",
+    "description": "A wholesome plant-based delight featuring a flavorful vegetable patty, fresh lettuce, tomatoes, onions, and a zesty sauce.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1eec",
+    "id": 6,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "250",
+        "medium": "370",
+        "large": "480"
+      }
+    ],
+    "name": "BBQ Ranch Chicken Burger",
+    "image": "https://sparkpeo.hs.llnwd.net/e2/guid/BBQ-Chicken-Burgers-/59519f1f-76fa-42ab-8cd6-588ca0247dd1.jpg",
+    "description": "A delectable combination of grilled chicken, smoky BBQ sauce, creamy ranch dressing, lettuce, and crispy onions.",
+    "category": "nonveg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1eed",
+    "id": 7,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "150",
+        "medium": "270",
+        "large": "380"
+      }
+    ],
+    "name": "Garden Veggie Burger",
+    "image": "https://st2.depositphotos.com/1004288/7824/i/600/depositphotos_78242678-stock-photo-vegan-burger.jpg",
+    "description": "A delicious veggie patty made with a blend of fresh garden vegetables, served with crisp lettuce, ripe tomatoes, and tangy sauce.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1eee",
+    "id": 8,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "200",
+        "medium": "320",
+        "large": "450"
+      }
+    ],
+    "name": "Mediterranean Burger",
+    "image": "https://www.onegreenplanet.org/wp-content/uploads/2016/05/falafel-burger.jpg",
+    "description": "A mouthwatering falafel patty infused with Mediterranean spices, topped with fresh veggies, tahini sauce, and served on a warm bun.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1eef",
+    "id": 9,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "230",
+        "medium": "340",
+        "large": "420"
+      }
+    ],
+    "name": "Portobello Burger",
+    "image": "https://wowitsveggie.com/wp-content/uploads/2020/03/vegan-portobello-mushroom-burger-landscape-1600x900.jpg",
+    "description": "Grilled portobello mushrooms marinated in savory herbs and spices, layered with melted cheese, caramelized onions, and served on a soft bun.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef0",
+    "id": 10,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "250",
+        "medium": "360",
+        "large": "450"
+      }
+    ],
+    "name": "Classic Beef Burger",
+    "image": "https://img.freepik.com/free-photo/front-view-meat-burger-with-salad-cheese-tomatoes-dark-background_140725-89540.jpg",
+    "description": "A classic beef patty cooked to perfection, topped with melted cheese, crisp lettuce, juicy tomatoes, and a special tangy sauce.",
+    "category": "nonveg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef1",
+    "id": 11,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "280",
+        "medium": "340",
+        "large": "430"
+      }
+    ],
+    "name": "Spicy Jalapeno Burger",
+    "image": "https://www.kindpng.com/picc/m/433-4335111_transparent-jalapeno-png-jalapeo-burger-carls-jr-png.png",
+    "description": "A fiery burger featuring a juicy beef patty infused with spicy jalapenos, layered with melted cheese, pickles, and a zesty sauce.",
+    "category": "nonveg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef2",
+    "id": 12,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "220",
+        "medium": "360",
+        "large": "440"
+      }
+    ],
+    "name": "Crispy Chicken Burger",
+    "image": "https://images.pexels.com/photos/5474836/pexels-photo-5474836.jpeg?cs=srgb&dl=pexels-chicken-mackay-5474836.jpg&fm=jpg",
+    "description": "A crispy breaded chicken patty served with fresh lettuce, ripe tomatoes, and creamy mayo, all sandwiched between a soft bun.",
+    "category": "nonveg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef3",
+    "id": 13,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 200,
+        "medium": 350,
+        "large": 400
+      }
+    ],
+    "name": "Paneer Paratha Pizza",
+    "category": "veg",
+    "image": "https://secureservercdn.net/104.238.68.130/i7y.9e0.myftpupload.com/wp-content/uploads/2020/06/VeggiePizza.jpg",
+    "description": "An epic fusion of paratha and pizza with melting cheese & soft paneer fillings to satisfy all your indulgent"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef4",
+    "id": 14,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 150,
+        "medium": 220,
+        "large": 300
+      }
+    ],
+    "name": "Margherita",
+    "category": "veg",
+    "image": "https://www.dominos.co.in//files/items/Margherit.jpg",
+    "description": "The pizza base is made by mixing yeast, sugar, olive oil, salt, and all-purpose flour in a big bowl. After mixing all the ingredients, it is baked by adding the cheese as topping over it. The base is perfectly prepared by adding single layer of cheese over it. It is mouth-watering pizza for cheese lovers."
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef5",
+    "id": 15,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 200,
+        "medium": 300,
+        "large": 420
+      }
+    ],
+    "name": "Jalapeno & Red Paprika",
+    "category": "veg",
+    "image": "https://www.dominos.co.in//files/items/5_Pepper.jpg",
+    "description": "This pizza is amazing and can become more delicious if we will add some more cheese in it. Ingredients are yeast, sugar, olive oil, salt, and all-purpose flour in a big bowl. After mixing all the ingredients, it is baked by adding Jalapeno and Paprika with corns over the cheese layer. The base is made crunchy to give it best taste. It can be made more tasty by sprinkling chili flakes and Oregano as per the taste."
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef6",
+    "id": 16,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "300",
+        "medium": "450",
+        "large": "540"
+      }
+    ],
+    "name": "Veggie Paradise",
+    "category": "veg",
+    "image": "https://th.bing.com/th/id/OIP.B-KSXMOqi_7aaZvsIJK9-QHaHa?pid=ImgDet&w=600&h=600&rs=1",
+    "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef7",
+    "id": 17,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 250,
+        "medium": 380,
+        "large": 450
+      }
+    ],
+    "name": "Mexican Green Wave",
+    "category": "veg",
+    "image": "https://img2.exportersindia.com/product_images/bc-full/2018/10/2044906/mexican-green-wave-pizza-1540891420-4420335.jpeg",
+    "description": "A pizza loaded with crunchy onions, crisp capsicum, juicy tomatoes and jalapeno with a liberal sprinkling of exotic Mexican herbs."
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef8",
+    "id": 18,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 250,
+        "medium": 380,
+        "large": 500
+      }
+    ],
+    "name": "Chicken Tandoori",
+    "category": "nonveg",
+    "image": "https://www.dominos.co.in/files/items/Pepper_Barbeque_&_Onion.jpg",
+    "description": "This is a deluxe pizza loaded with cheese and special tandoori chicken on it. It is delicious because of the indian mix. After mixing all the ingredients, it is baked by adding the cheese as topping over it. The base is perfectly prepared by adding double layer of cheese over it"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1ef9",
+    "id": 19,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 180,
+        "medium": 250,
+        "large": 350
+      }
+    ],
+    "name": "Golden Corn Pizza",
+    "category": "veg",
+    "description": "Corn over the base makes it look beautiful. It is served with tomato sauce and chili flakes are sprinkled over the topping according the taste. After mixing all the ingredients, it is baked by adding cheese and corn for added flavor to pizza. Corn adds health and sweet taste to the pizza.",
+    "image": "https://www.dominos.co.in/files/items/PrimeCheesyL.jpg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1efa",
+    "id": 20,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 250,
+        "medium": 380,
+        "large": 420
+      }
+    ],
+    "name": "Italian Veg",
+    "category": "veg",
+    "image": "https://thumbs.dreamstime.com/b/delicious-classic-italian-pizza-garlic-sauce-shrimp-cheese-isolated-white-background-84939049.jpg",
+    "description": "For these easy appetizer pizzas, pile fresh asparagus, summer squash, tomato, and cheese onto purchased Italian bread shells. Combine the traditional Indian taste with delicious italian sauces."
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1efb",
+    "id": 21,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 250,
+        "medium": 380,
+        "large": 450
+      }
+    ],
+    "name": "Chicken Pepperoni",
+    "category": "nonveg",
+    "image": "https://www.dominos.co.in/files/items/Chicken_Golden_Delight.jpg",
+    "description": "Pepperoni pizza is an American pizza variety which includes one of the country's most beloved toppings. Pepperoni is actually a corrupted form of peperoni (one “p”), which denotes a large pepper in Italian, but nowadays it denotes a spicy salami, usually made with a mixture of beef, pork, and spices."
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1efc",
+    "id": 22,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 250,
+        "medium": 380,
+        "large": 420
+      }
+    ],
+    "name": "Double Cheese Margherita",
+    "category": "veg",
+    "image": "https://www.dominos.co.in//files/items/Double_Cheese_Margherita.jpg",
+    "description": "This is a plain pizza which have cheese on it which is margherita and is delicious because of the loads of cheese. After mixing all the ingredients, it is baked by adding the cheese as topping over it. The base is perfectly prepared by adding double layer of cheese over it."
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1efd",
+    "id": 23,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": 250,
+        "medium": 380,
+        "large": 500
+      }
+    ],
+    "name": "Peppy Paneer Pizza",
+    "category": "veg",
+    "image": "https://www.dominos.co.in//files/items/Peppy_Paneer.jpg",
+    "description": "Topped with gooey paneer, crunchy capsicum & red paprika. Dive into the exquisite taste of paneer topped on your favourite pizza."
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1efe",
+    "id": 24,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "250",
+        "medium": "380",
+        "large": "480"
+      }
+    ],
+    "name": "Pepper Barbecue Chicken",
+    "image": "https://th.bing.com/th/id/R.a6dbd6f3454c957c346b7d5cfd92fb86?rik=Vi2BfqQkVdsV%2bA&riu=http%3a%2f%2fwww.dominos.co.in%2ffiles%2fitems%2fChicken_Tikka.jpg&ehk=o2rhho6Kro5lPClDKMkS2%2bYMYVSqFcdk%2fmR7ZogwqBo%3d&risl=&pid=ImgRaw&r=0",
+    "description": "Pepper barbecue chicken for that extra zing",
+    "category": "nonveg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1eff",
+    "id": 25,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "50",
+        "medium": "100",
+        "large": "150"
+      }
+    ],
+    "name": "Watermelon Splash",
+    "image": "https://w0.peakpx.com/wallpaper/404/316/HD-wallpaper-water-melon-drinks-fruits-glasses-beach-fruit-graphy-drink-skyphoenixx1-season-stars-water-melon-vacation-cocktail-drinking-straw-holiday-refreshing-drinks-abstract-summer-melon.jpg",
+    "description": "A refreshing blend of fresh watermelon juice with a hint of mint and a splash of lime, served over ice.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f00",
+    "id": 26,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "70",
+        "medium": "120",
+        "large": "180"
+      }
+    ],
+    "name": "Tropical Paradise",
+    "image": "https://w0.peakpx.com/wallpaper/703/21/HD-wallpaper-tropical-cocktail-cocktail-juice-orange-fresh-fruits-summer-drink-tropical.jpg",
+    "description": "Escape to a tropical paradise with this exotic blend of pineapple, mango, and coconut, garnished with a pineapple wedge.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f01",
+    "id": 27,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "80",
+        "medium": "140",
+        "large": "180"
+      }
+    ],
+    "name": "Strawberry Delight",
+    "image": "https://e0.pxfuel.com/wallpapers/239/585/desktop-wallpaper-strawberry-drink-strawberry-fruit-juice-drink.jpg",
+    "description": "Indulge in the sweet and tangy flavors of fresh strawberries, blended to perfection and garnished with a strawberry slice.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f02",
+    "id": 28,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "40",
+        "medium": "90",
+        "large": "130"
+      }
+    ],
+    "name": "Mango Madness",
+    "image": "https://img.freepik.com/premium-photo/fresh-mango-juice_315337-4006.jpg",
+    "description": "Experience the tropical taste of ripe mangoes in this luscious and creamy mango shake, garnished with a mango slice.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f03",
+    "id": 29,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "70",
+        "medium": "120",
+        "large": "160"
+      }
+    ],
+    "name": "Citrus Burst",
+    "image": "https://img.freepik.com/premium-photo/glass-citruc-juices-mix-fresh-slices-orange-grapefruit-lemon-lime-fruit-isolated-white-background_124717-806.jpg",
+    "description": "Get a burst of citrusy flavors with this tangy blend of orange, lemon, and lime, served chilled with a citrus twist.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f04",
+    "id": 30,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "60",
+        "medium": "100",
+        "large": "140"
+      }
+    ],
+    "name": "Pineapple Paradise",
+    "image": "https://e0.pxfuel.com/wallpapers/747/450/desktop-wallpaper-juice-pineapples-highball-glass-food-fruit-drink-thumbnail.jpg",
+    "description": "Take a sip of paradise with this tropical mix of juicy pineapples, coconut milk, and a hint of lime, garnished with a pineapple leaf.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f05",
+    "id": 31,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "100",
+        "medium": "160",
+        "large": "200"
+      }
+    ],
+    "name": "Berry Blast",
+    "image": "https://www.veggiessavetheday.com/wp-content/uploads/2018/06/Easy-Berry-Vodka-Cocktails-FI-500x500.jpg",
+    "description": "Savor the explosion of flavors in this delightful blend of mixed berries, topped with whipped cream and a sprinkle of berry dust.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f06",
+    "id": 32,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "70",
+        "medium": "130",
+        "large": "180"
+      }
+    ],
+    "name": "Passion Fruit Fizz",
+    "image": "https://st4.depositphotos.com/8687452/20716/i/450/depositphotos_207161024-stock-photo-fresh-iced-passion-fruit-juice.jpg",
+    "description": "Indulge in the tropical tang of passion fruit with a sparkling twist, garnished with a slice of passion fruit and a sprig of mint.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f07",
+    "id": 33,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "60",
+        "medium": "110",
+        "large": "160"
+      }
+    ],
+    "name": "Lemonade Refresher",
+    "image": "https://cdn.pixabay.com/photo/2016/07/21/11/17/drink-1532300__480.jpg",
+    "description": "Quench your thirst with this revitalizing lemonade, made with freshly squeezed lemons, a touch of sweetness, and a sprig of fresh mint.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f08",
+    "id": 34,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "60",
+        "medium": "120",
+        "large": "160"
+      }
+    ],
+    "name": "Coconut Breeze",
+    "image": "https://media.istockphoto.com/id/598054528/photo/coconut-water.jpg?s=612x612&w=0&k=20&c=OsQPEcMsp_ArkTYyZOTokN3mTfYdR4FJw2oAni7Mzlo=",
+    "description": "Escape to a tropical beach with this creamy blend of coconut milk, pineapple juice, and a hint of vanilla, garnished with a pineapple wedge.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f09",
+    "id": 35,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "70",
+        "medium": "130",
+        "large": "180"
+      }
+    ],
+    "name": "Tropical Sunrise",
+    "image": "https://w0.peakpx.com/wallpaper/402/376/HD-wallpaper-tropical-cocktails-vacation-cocktail-juice-strawberry-orange-fresh-fruits-palms-lime-beash-summer-ice-drink-tropical.jpg",
+    "description": "Experience the vibrant flavors of the tropics with this refreshing blend of pineapple, mango, and orange juices, topped with a splash of grenadine.",
+    "category": "veg"
+  },
+  {
+    "_id": "64c267f16eddd1e57c2d1f0a",
+    "id": 36,
+    "varients": ["small", "medium", "large"],
+    "prices": [
+      {
+        "small": "50",
+        "medium": "100",
+        "large": "160"
+      }
+    ],
+    "name": "Raspberry Zing",
+    "image": "https://png.pngtree.com/illustration/20230418/ourmid/pngtree-raspberry-juice-drink-with-iced-image_294109.png",
+    "description": "Experience the tangy and refreshing taste of ripe raspberries in this zesty concoction, garnished with a sprig of fresh mint.",
+    "category": "veg"
+  }
+]
